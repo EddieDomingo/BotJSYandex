@@ -10,5 +10,5 @@
 // ==/UserScript==
 
 
-document.getElementById('text').value = 'Дом'
+document.getElementById('text').value = '10 самых популярных шрифтов от Google'
 document.getElementsByClassName('mini-suggest__button button_theme_search button_size_search i-bem button_js_inited')[0].click();
