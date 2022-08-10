@@ -6,7 +6,7 @@
 // @author       Lebedev Nikolay 
 // @match        https://yandex.ru/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
-// @grant        none
+// @grant        none 
 // ==/UserScript==
 
 
